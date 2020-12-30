@@ -1,0 +1,55 @@
+- name: NodeJS Web app
+  url: 'https://github.com/bmchaitu/vidly_'
+  description: >-
+    This a movie rental web app with NodeJS back-end, it has the workflow of
+    SignUp, LogIn, and a conenected to Mongo database to save all the user
+    database. It also has the rolse based signIn's.
+
+    All theJavascript syntax used are from ECMAScript 2016.
+  status: live
+  tags:
+    - MongoDB
+    - NodeJS
+  icon: github
+- name: Chrome-Extension  starter
+  url: 'https://github.com/bmchaitu/tabextension'
+  description: >-
+    It helps the developer to make the customizable new tab page to develop in a
+    classic manner. No need to write all the manifest file and others, bydefault
+    it has the wall clock which describes the time with the timezone
+    irrespective of the system time.
+  status: live
+  tags:
+    - Javascript
+  icon: github
+- name: Inbox cleaner
+  url: 'https://github.com/bmchaitu/Inbox-Cleaner'
+  description: >-
+    It is a Inbox cleaner where if any specified repeating and irritating emails
+    have been delivered can be sent to bin folder so it makes the deletion of
+    emails in a easier manner.
+  status: live
+  tags:
+    - Python
+  icon: github
+- name: An article on Web architecture and styles
+  url: 'https://dev.to/bmchaithu/web-services-architecture-styles-56g1'
+  description: >-
+    This article explains the better way of different styles and the way of the
+    Web architecture in detail but in layman terminology.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
+- name: An article on Esoteric Proramming language
+  url: 'https://dev.to/bmchaithu/esoteric-programming-language-37'
+  description: >-
+    It explains the types of programming languages and taking the discussion on
+    to the esoteric programming language.It mainly deals with the Javascript
+    f*ck
+  status: live
+  tags: []
+  icon: website
+  image: images/images.png
