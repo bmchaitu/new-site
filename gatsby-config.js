@@ -6,7 +6,7 @@ module.exports = {
     },
     plugins: [
         {
-            resolve: "@bmchaitu/site-theme",
+            resolve: "@bmchaitu/check-theme",
             options: {
                 basePath: "/",
                 contentPath: "content/",
